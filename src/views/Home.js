@@ -33,7 +33,7 @@ class Home extends Reflux.Component {
 
     return (
       <div className="Home">
-        <Header title="Pokedex" />
+        <Header title="Pokedex Application" />
 
         <div className="row">
           { pokemons }
